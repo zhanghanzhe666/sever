@@ -6,7 +6,7 @@ import os
 import os.path
 import sys
 
-port = int(PORTconfig)
+
 IP = '0.0.0.0'
 PORT = 3000     # 端口
 messages = queue.Queue()
